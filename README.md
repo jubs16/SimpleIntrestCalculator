@@ -9,6 +9,7 @@ The project consist of backend NodeJS and frontend React client application. Con
 - SimpleIntrestCalculator
   - server.js      (your backend)
  -- client        (your frontend)
+```
 
 ## Running the application.
 
